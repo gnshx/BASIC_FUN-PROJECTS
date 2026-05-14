@@ -17,6 +17,7 @@ This repository contains small beginner-friendly projects built for practice, ex
 - 📝 Form Validation
 - 📅 Age Calculator
 - 🎵 Simple Music Player
+- random number generator
 
 *(More projects will be added as I continue learning.)*
 
