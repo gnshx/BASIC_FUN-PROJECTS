@@ -1,0 +1,28 @@
+div{
+    border: 2px black double;
+    text-align: center;
+    margin: 50px auto;
+    width: 600px;
+}
+body{
+    background-color: aliceblue;
+}
+pre{
+    text-align: center;
+    font-size: 1.5em;
+}
+label{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+input{
+    size: 1.5em;
+    cursor:grabbing;
+    font-size: 1.5em;
+    text-align: center;
+}
+button{
+    font-size: 1.5em;
+    text-align: center;
+}
