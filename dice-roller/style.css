@@ -1,0 +1,86 @@
+
+html {
+    height: 100%;
+    margin: 0;
+}
+    body {
+         height: 100%;
+        margin: 0;
+       /* margin: 40px auto;
+       /* justify-content: center;  /* horizontal center */
+     /*   align-items: center;      /* vertical center */
+        font-family: Arial, sans-serif;
+        background: #acded5;
+    }
+#div1{
+    margin: 50px auto;
+        background: white;
+        padding: 30px;
+        border-radius: 15px;
+        text-align: center;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        width: 400px;
+        height: 300px;
+}
+    /* Main box container */
+    div {
+
+        margin: 50px auto;
+        background: white;
+        padding: 20px;
+        border-radius: 15px;
+        text-align: center;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        width: 500px;
+    }
+
+    /* Heading */
+    h1,h3 {
+        text-align: center;
+        margin-bottom: 10px;
+        color: #333;
+    }
+
+    /* Paragraph text */
+    p {
+        color: #666;
+        margin-bottom: 15px;
+    }
+
+    /* Input box styling */
+    input {
+        width: 80%;
+        padding: 10px;
+        border: 2px solid #ccc;
+        border-radius: 8px;
+        outline: none;
+        font-size: 16px;
+        text-align: center;
+    }
+
+    /* Input focus effect (when clicked) */
+    input:focus {
+        border-color: #6c63ff;
+    }
+
+    /* Button styling */
+    button {
+        margin-top: 15px;
+        padding: 10px 20px;
+        background: #6c63ff;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+img {
+    text-align: center;
+    justify-content: center;
+    margin: 10px auto;
+}
+    /* Button hover effect */
+    button:hover {
+        background: #574fd6;
+    }
